@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="85925" started-at="2020-04-04T00:56:09 IST" finished-at="2020-04-04T00:57:35 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="85925" started-at="2020-04-04T00:56:09 IST" finished-at="2020-04-04T00:57:35 IST">
+      <class name="com.testngpractice.actimitmelogintest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testngpractice.actimitmelogintest@1f36e637]" name="setup" is-config="true" duration-ms="14085" started-at="2020-04-04T00:56:09 IST" finished-at="2020-04-04T00:56:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.testngpractice.actimitmelogintest@1f36e637]" name="logintest" duration-ms="5166" started-at="2020-04-04T00:56:23 IST" finished-at="2020-04-04T00:56:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.testngpractice.actimitmelogintest@1f36e637]" name="CloseBrowser" is-config="true" duration-ms="4355" started-at="2020-04-04T00:56:28 IST" finished-at="2020-04-04T00:56:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testngpractice.actimitmelogintest@1f36e637]" name="setup" is-config="true" duration-ms="10851" started-at="2020-04-04T00:56:32 IST" finished-at="2020-04-04T00:56:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyentertimepage()[pri:1, instance:com.testngpractice.actimitmelogintest@1f36e637]" name="verifyentertimepage" duration-ms="5115" started-at="2020-04-04T00:56:43 IST" finished-at="2020-04-04T00:56:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyentertimepage -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.testngpractice.actimitmelogintest@1f36e637]" name="CloseBrowser" is-config="true" duration-ms="4122" started-at="2020-04-04T00:56:48 IST" finished-at="2020-04-04T00:56:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testngpractice.actimitmelogintest@1f36e637]" name="setup" is-config="true" duration-ms="10910" started-at="2020-04-04T00:56:53 IST" finished-at="2020-04-04T00:57:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifydate()[pri:2, instance:com.testngpractice.actimitmelogintest@1f36e637]" name="verifydate" duration-ms="1514" started-at="2020-04-04T00:57:03 IST" finished-at="2020-04-04T00:57:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifydate -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.testngpractice.actimitmelogintest@1f36e637]" name="CloseBrowser" is-config="true" duration-ms="4270" started-at="2020-04-04T00:57:05 IST" finished-at="2020-04-04T00:57:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testngpractice.actimitmelogintest@1f36e637]" name="setup" is-config="true" duration-ms="10791" started-at="2020-04-04T00:57:09 IST" finished-at="2020-04-04T00:57:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="displaycallender()[pri:3, instance:com.testngpractice.actimitmelogintest@1f36e637]" name="displaycallender" duration-ms="10274" started-at="2020-04-04T00:57:20 IST" finished-at="2020-04-04T00:57:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displaycallender -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.testngpractice.actimitmelogintest@1f36e637]" name="CloseBrowser" is-config="true" duration-ms="4368" started-at="2020-04-04T00:57:30 IST" finished-at="2020-04-04T00:57:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.testngpractice.actimitmelogintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
